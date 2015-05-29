@@ -1,0 +1,16 @@
+{
+	"Seti_sb_tree_small": true,
+	"Seti_tabs_small": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Tomorrow-Night.tmTheme",
+	"font_size": 18,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Seti.sublime-theme"
+}
