@@ -11,6 +11,7 @@
 	[
 		"Vintage"
 	],
+	//"__vi_external_disable": true,
 	"overlay_scroll_bars": "enabled",
 	"theme": "Seti.sublime-theme"
 }
