@@ -1,17 +1,16 @@
 {
-	"Seti_sb_tree_small": true,
-	"Seti_tabs_small": true,
-	"caret_extra_bottom": 3,
-	"caret_extra_top": 3,
-	"caret_extra_width": 2,
-	"color_scheme": "Packages/Tomorrow-Night.tmTheme",
-	"font_size": 18,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"font_face": "Menlo",
+	"font_size": 17,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	//"__vi_external_disable": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Seti.sublime-theme"
+	"sidebar_size_12": true,
+	"status_bar_brighter": true,
+	"tabs_padding_small": true,
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme"
 }
